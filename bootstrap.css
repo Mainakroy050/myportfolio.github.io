@@ -2556,12 +2556,12 @@ fieldset:disabled a.btn {
   color: #fff;
   background-color: #007bff;
   border-color: #007bff;
+  
 }
 
 .btn-primary:hover {
-  color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
+   border:4px solid black;	
+	cursor:pointer;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -2630,6 +2630,7 @@ fieldset:disabled a.btn {
   color: #fff;
   background-color: #28a745;
   border-color: #28a745;
+  
 }
 
 .btn-success:hover {
@@ -2666,12 +2667,12 @@ fieldset:disabled a.btn {
   color: #fff;
   background-color: #17a2b8;
   border-color: #17a2b8;
+  
 }
 
 .btn-info:hover {
-  color: #fff;
-  background-color: #138496;
-  border-color: #117a8b;
+	 border:4px solid black;	
+	cursor:pointer;
 }
 
 .btn-info:focus, .btn-info.focus {
@@ -2740,7 +2741,7 @@ fieldset:disabled a.btn {
   color: #fff;
   background-color: #dc3545;
   border-color: #dc3545;
- 
+
 }
 
 .btn-danger:hover {
